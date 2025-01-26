@@ -1,0 +1,1 @@
+This repository contains a simple TypeScript bug demonstrating type errors. The `greeter` function expects a string argument but receives an array of strings. The solution demonstrates how to fix the bug using type assertions or array destructuring.
